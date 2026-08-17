@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
