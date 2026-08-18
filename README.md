@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3731-find-missing-elements](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
