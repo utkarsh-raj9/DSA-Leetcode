@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -129,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
