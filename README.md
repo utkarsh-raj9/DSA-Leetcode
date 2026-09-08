@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
