@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
