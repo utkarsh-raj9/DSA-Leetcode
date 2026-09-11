@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
