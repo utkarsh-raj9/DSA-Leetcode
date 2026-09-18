@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0274-h-index) |
+| [0414-third-maximum-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1051-height-checker) |
