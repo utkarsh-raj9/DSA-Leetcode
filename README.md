@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/utkarsh-raj9/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
